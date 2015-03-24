@@ -6,7 +6,7 @@ A Powershell script for dynamically updating Google DNS records
 
 ```powershell
 .\Update-GoogleDynamicDns.ps1 [-Hostname] <String> [-Credential] <PSCredential>
-  [[-IPAddress] <IPAddress> ] [-Force]
+  [[-IPAddress] <IPAddress>] [-Force]
 ```
 
 ## Examples
